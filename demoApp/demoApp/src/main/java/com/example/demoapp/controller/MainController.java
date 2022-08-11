@@ -12,5 +12,6 @@ public class MainController {
         return "Hello world";
     }
 
+    public void methodToRemove() {}
 
 }
